@@ -95,5 +95,8 @@
         }
       ]
     }
+  },
+  typescript: {
+    definition: './aurelia-router.d.ts'
   }
 }
